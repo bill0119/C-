@@ -1,8 +1,8 @@
-# algorithm
+# CPlusplus
 
-online judge problem
+online judge problem (C++ programming language)
 
-## algorithm
+## reverse integer
 
 reverse.cpp
 
